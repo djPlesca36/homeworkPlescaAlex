@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\1 - Faculty\\Y2\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\homework1.csproj",
-      "projectName": "homework1",
-      "projectPath": "F:\\1 - Faculty\\Y2\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\homework1.csproj",
+      "projectUniqueName": "F:\\1 - Faculty\\Y2\\Object Oriented Programing\\homeworkPlescaAlex\\homework2\\homework2.csproj",
+      "projectName": "homework2",
+      "projectPath": "F:\\1 - Faculty\\Y2\\Object Oriented Programing\\homeworkPlescaAlex\\homework2\\homework2.csproj",
       "packagesPath": "C:\\Users\\plesc\\.nuget\\packages\\",
-      "outputPath": "F:\\1 - Faculty\\Y2\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\obj\\",
+      "outputPath": "F:\\1 - Faculty\\Y2\\Object Oriented Programing\\homeworkPlescaAlex\\homework2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
