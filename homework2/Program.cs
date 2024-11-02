@@ -6,19 +6,17 @@ namespace homework2
     {
         static void Main(string[] args)
         {
-            // Instantiate a new Book object using the first constructor
             Book book1 = new Book("1984", "George Orwell");
-
-            // Instantiate another Book object using the second constructor
             Book book2 = new Book("The Hobbit", "J.R.R. Tolkien", 310);
+            Book book3 = new Book("Amintiri din Copilarie", "Mihai Eminescu", 269);
 
-            // Call CheckOut on book1 and ReturnBook on book2
             book1.CheckOut();
             book2.ReturnBook();
+            book3.CheckOut();
 
-            // Print details of both books using the overridden ToString() method
             Console.WriteLine(book1.ToString());
             Console.WriteLine(book2.ToString());
+            Console.WriteLine(book3.ToString());
         }
     }
 }
