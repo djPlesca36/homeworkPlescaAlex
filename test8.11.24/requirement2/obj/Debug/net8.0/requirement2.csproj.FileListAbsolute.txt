@@ -1,0 +1,15 @@
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\bin\Debug\net8.0\requirement2.exe
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\bin\Debug\net8.0\requirement2.deps.json
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\bin\Debug\net8.0\requirement2.runtimeconfig.json
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\bin\Debug\net8.0\requirement2.dll
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\bin\Debug\net8.0\requirement2.pdb
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.AssemblyInfoInputs.cache
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.AssemblyInfo.cs
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.csproj.CoreCompileInputs.cache
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.sourcelink.json
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.dll
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\refint\requirement2.dll
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.pdb
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\requirement2.genruntimeconfig.cache
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\requirement2\obj\Debug\net8.0\ref\requirement2.dll
