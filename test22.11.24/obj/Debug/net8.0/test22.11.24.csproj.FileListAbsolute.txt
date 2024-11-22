@@ -1,0 +1,15 @@
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.AssemblyInfoInputs.cache
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.AssemblyInfo.cs
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.csproj.CoreCompileInputs.cache
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.sourcelink.json
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\bin\Debug\net8.0\test22.11.24.exe
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\bin\Debug\net8.0\test22.11.24.deps.json
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\bin\Debug\net8.0\test22.11.24.runtimeconfig.json
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\bin\Debug\net8.0\test22.11.24.dll
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\bin\Debug\net8.0\test22.11.24.pdb
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.dll
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\refint\test22.11.24.dll
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.pdb
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\test22.11.24.genruntimeconfig.cache
+D:\0 - faculty\Object Oriented Programing\homeworkPlescaAlex\test22.11.24\obj\Debug\net8.0\ref\test22.11.24.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\homework1.csproj": {}
+    "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\test22.11.24\\test22.11.24.csproj": {}
   },
   "projects": {
-    "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\homework1.csproj": {
+    "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\test22.11.24\\test22.11.24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\homework1.csproj",
-        "projectName": "homework1",
-        "projectPath": "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\homework1.csproj",
+        "projectUniqueName": "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\test22.11.24\\test22.11.24.csproj",
+        "projectName": "test22.11.24",
+        "projectPath": "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\test22.11.24\\test22.11.24.csproj",
         "packagesPath": "C:\\Users\\plesc\\.nuget\\packages\\",
-        "outputPath": "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\homework1\\obj\\",
+        "outputPath": "D:\\0 - faculty\\Object Oriented Programing\\homeworkPlescaAlex\\test22.11.24\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
